@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SplashS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- COR SECUNDÁRIA  -->
+        <item name="colorSecondary">@color/second_color</item>
+        <!-- COR BARRA DE STATUS  -->
+        <item name="android:statusBarColor">@color/primary_color</item>
+    </style>
+
+    <style name="Theme.SplashS" parent="Base.Theme.SplashS" />
+</resources>
